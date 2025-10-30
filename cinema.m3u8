@@ -1,0 +1,53 @@
+﻿#EXTM3U8
+
+#EXTINF:004 tvg-logo="https://tv.vics.cz/logo/amc.png",AMC
+http://88.212.15.47/live/test_amc_25p/playlist.m3u8
+#EXTINF:002 tvg-logo="https://tv.vics.cz/logo/axn.png",AXN
+http://88.212.15.47/live/test_axn/playlist.m3u8
+#EXTINF:003 tvg-logo="https://tv.vics.cz/logo/cinemax2.png",Cinemax  2
+http://88.212.15.47/live/test_cinemax2_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tv.vics.cz/logo/cinemax.png",Cinemax
+http://88.212.15.47/live/test_cinemax_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tv.vics.cz/logo/cnnprima.png",CNN Prima
+http://88.212.15.47/live/test_cnn_pirma_news/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tv.vics.cz/logo/ct1.png",CT 1
+http://88.212.15.47/live/test_ct1_25p/playlist.m3u8
+#EXTINF:001 tvg-logo="https://tv.vics.cz/logo/ct2.png",CT 2
+http://88.212.15.47/live/test_ct2_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tv.vics.cz/logo/ct24.png",CT 24
+http://88.212.15.47/live/ct24_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tv.vics.cz/logo/filmplus.png",Film+
+http://88.212.15.47/live/test_film_plus_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tv.vics.cz/logo/filmbox.png",Filmbox
+http://88.212.15.47/live/test_filmbox/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tv.vics.cz/logo/hbo2.png",HBO 2
+http://88.212.15.47/live/test_hbo2_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tv.vics.cz/logo/hbo3.png",HBO 3
+http://88.212.15.47/live/test_hbo3_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tv.vics.cz/logo/hbo.png",HBO
+http://88.212.15.47/live/test_hbo_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tv.vics.cz/logo/nova.png",Nova
+http://88.212.15.47/live/nova_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tv.vics.cz/logo/novaaction.png",Nova Action
+http://88.212.15.47/live/nova_action_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tv.vics.cz/logo/novacinema.png",Nova Cinema
+http://88.212.15.47/live/nova_cinema_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tv.vics.cz/logo/novafun.png",Nova Fun
+http://88.212.15.47/live/nova_fun_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tv.vics.cz/logo/novagold.png",Nova Gold
+http://88.212.15.47/live/nova_gold_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tv.vics.cz/logo/novalady.png",Nova Lady
+http://88.212.15.47/live/test_nova_lady_hevc_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tv.vics.cz/logo/prima.png",Prima
+http://88.212.15.47/live/prima_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tv.vics.cz/logo/primacool.png",Prima COOL
+http://88.212.15.47/live/prima_cool_cz_hevc/index.m3u8
+#EXTINF:-1 tvg-logo="https://tv.vics.cz/logo/primakrimi.png",Prima KRIMI
+http://88.212.15.47/live/test_prima_krimi_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tv.vics.cz/logo/primalove.png",Prima LOVE
+http://88.212.15.47/live/test_prima_love_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tv.vics.cz/logo/primashow.png",Prima Show
+http://88.212.15.47/live/prima_show_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tv.vics.cz/logo/primazoom.png",Prima ZOOM
+http://88.212.15.47/live/test_prima_zoom_hevc/playlist.m3u8
+
